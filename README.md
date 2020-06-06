@@ -20,5 +20,19 @@ The approach we adopted was as follows:-
 4. Pre-processed the images and trained a model on this data.
 <br>
 5. Made the model predict for the actual snips of the doctors handwritng(these snips weren't used for training the model or validation).</b>
-<br>
-## 
+<br><br>
+## Prototype Demo
+<div align="center">
+  
+<b>1.Upload Image of prescription.</b><br>
+![MainPage](https://github.com/ShubhamRaorane/Handwritten-Prescription-Medicine-Recognition/blob/master/protoype_demo_images/2.png?raw=true?align=centre "Main page")<br>
+<b>2.Image of prescription uploaded(actual doctors prescription)</b><br>
+![Prescription](https://github.com/ShubhamRaorane/Handwritten-Prescription-Medicine-Recognition/blob/master/protoype_demo_images/4.png?raw=true "Prescription")<br>
+<b>3.Select the snip of medicine name to send to model for prediciton</b><br>
+![SelectImage](https://github.com/ShubhamRaorane/Handwritten-Prescription-Medicine-Recognition/blob/master/protoype_demo_images/5.png?raw=true "SelectImage")<br>
+<b>4.Output of image predicted</b><br>
+![Output Prediction](https://github.com/ShubhamRaorane/Handwritten-Prescription-Medicine-Recognition/blob/master/protoype_demo_images/3.png?raw=true "Output Prediction")<br>
+<b>5.Snipping algorithm at work</b><br>
+![BoxedImage](https://github.com/ShubhamRaorane/Handwritten-Prescription-Medicine-Recognition/blob/master/protoype_demo_images/6.png?raw=true "BoxedImage")<br>
+
+</div>
