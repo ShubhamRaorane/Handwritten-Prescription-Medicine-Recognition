@@ -25,14 +25,14 @@ The approach we adopted was as follows:-
 <div align="center">
   
 <b>1.Upload Image of prescription.</b><br>
-![MainPage](https://github.com/ShubhamRaorane/Handwritten-Prescription-Medicine-Recognition/blob/master/protoype_demo_images/2.png?raw=true?align=centre "Main page")<br>
-<b>2.Image of prescription uploaded(actual doctors prescription)</b><br>
-![Prescription](https://github.com/ShubhamRaorane/Handwritten-Prescription-Medicine-Recognition/blob/master/protoype_demo_images/4.png?raw=true "Prescription")<br>
-<b>3.Select the snip of medicine name to send to model for prediciton</b><br>
-![SelectImage](https://github.com/ShubhamRaorane/Handwritten-Prescription-Medicine-Recognition/blob/master/protoype_demo_images/5.png?raw=true "SelectImage")<br>
+![MainPage](https://github.com/ShubhamRaorane/Handwritten-Prescription-Medicine-Recognition/blob/master/demo_images/4765872e-ddbf-4ef2-92b6-c61ec3c78135.png?raw=true?align=centre "Main page")<br>
+<b>2.Image of prescription to be uploaded(actual doctors prescription)</b><br>
+![Prescription](https://github.com/ShubhamRaorane/Handwritten-Prescription-Medicine-Recognition/blob/master/demo_images/ca8c4cd4-7e82-4043-a1e5-ce3573eb7fc0.png?raw=true "Prescription")<br>
+<b>3.Select the snip of the medicine to send to the model for prediciton</b><br>
+![SelectImage](https://github.com/ShubhamRaorane/Handwritten-Prescription-Medicine-Recognition/blob/master/demo_images/7ec653ff-9656-4c30-84d4-bcb25a58111e.png?raw=true "SelectImage")<br>
 <b>4.Output of image predicted</b><br>
-![Output Prediction](https://github.com/ShubhamRaorane/Handwritten-Prescription-Medicine-Recognition/blob/master/protoype_demo_images/3.png?raw=true "Output Prediction")<br>
-<b>5.Snipping algorithm at work</b><br>
-![BoxedImage](https://github.com/ShubhamRaorane/Handwritten-Prescription-Medicine-Recognition/blob/master/protoype_demo_images/6.png?raw=true "BoxedImage")<br>
+![Output Prediction](https://github.com/ShubhamRaorane/Handwritten-Prescription-Medicine-Recognition/blob/master/demo_images/764e4b7b-a123-4c81-b7b0-b75066821dc1.png?raw=true "Output Prediction")<br>
+<b>5.Word Segmentation</b><br>
+![Word Segmentation](https://github.com/ShubhamRaorane/Handwritten-Prescription-Medicine-Recognition/blob/master/demo_images/9080a745-562e-49b0-8625-602e1b8aa42d.png?raw=true "Word Segmentation")<br>
 
 </div>
