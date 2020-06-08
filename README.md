@@ -36,3 +36,19 @@ The approach we adopted was as follows:-
 ![Word Segmentation](https://github.com/ShubhamRaorane/Handwritten-Prescription-Medicine-Recognition/blob/master/demo_images/9080a745-562e-49b0-8625-602e1b8aa42d.png?raw=true "Word Segmentation")<br>
 
 </div>
+
+## Requirements
+<ul>
+  <li>Python 3.7.x</li>
+  <li>Django</li>
+  <li>Tensorflow 2.x </li>
+  <li>OpenCV 4.2.0</li>
+  <li>numpy 1.18.1</li>
+ <ul>
+ <br>
+   
+ ## Project Members
+ 
+ <b>Shubham Raorane  [https://github.com/ShubhamRaorane] </b>
+ <br>
+ <b>Amrut Savadatti  [https://github.com/amrutsavadatti] </b>
