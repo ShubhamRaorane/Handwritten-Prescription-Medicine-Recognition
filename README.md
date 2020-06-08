@@ -56,6 +56,7 @@ The approach we adopted was as follows:-
  ## References & Resources
  
  <ul>
-  <li>Tensorflow Classification notbook(https://www.tensorflow.org/tutorials/keras/classification)</li>
-  <li>Scale space technique for word segmentation proposed by R. Manmatha(http://ciir.cs.umass.edu/pubfiles/mm-27.pdf)</li>
+  <li>Tensorflow Classification notebook (https://www.tensorflow.org/tutorials/keras/classification)</li>
+  <li>Scale space technique for word segmentation proposed by R. Manmatha (http://ciir.cs.umass.edu/pubfiles/mm-27.pdf)</li>
+  <li>Deep Lizard tutorials (https://deeplizard.com/learn/video/YRhxdVk_sIs) & (https://www.youtube.com/playlist?list=PLZbbT5o_s2xrwRnXk_yCPtnqqo4_u2YGL)</li>
  </ul>
