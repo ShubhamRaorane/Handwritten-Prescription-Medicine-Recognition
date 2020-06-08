@@ -45,6 +45,7 @@ The approach we adopted was as follows:-
   <li>OpenCV 4.2.0</li>
   <li>numpy 1.18.1</li>
  </ul>
+ <p>A list of libraries in the conda environment is provided in <i>environmentPackages.txt</i></p>
  <br>
    
  ## Project Members
