@@ -1,5 +1,5 @@
 # Handwritten-Prescription-Medicine-Recognition   [![GitHub license](https://img.shields.io/github/license/ShubhamRaorane/Handwritten-Prescription-Medicine-Recognition)](https://github.com/ShubhamRaorane/Handwritten-Prescription-Medicine-Recognition/blob/master/LICENSE)
-Classifying handwritten names of medicines prescribed by doctor's.
+Recoginzing handwritten names of medicines prescribed by doctor's.
 
 
 ## Description
@@ -44,7 +44,7 @@ The approach we adopted was as follows:-
   <li>Tensorflow 2.x </li>
   <li>OpenCV 4.2.0</li>
   <li>numpy 1.18.1</li>
- <ul>
+ </ul>
  <br>
    
  ## Project Members
@@ -52,3 +52,10 @@ The approach we adopted was as follows:-
  <b>Shubham Raorane  [https://github.com/ShubhamRaorane] </b>
  <br>
  <b>Amrut Savadatti  [https://github.com/amrutsavadatti] </b>
+ 
+ ## References & Resources
+ 
+ <ul>
+  <li>Tensorflow Classification notbook(https://www.tensorflow.org/tutorials/keras/classification)</li>
+  <li>Scale space technique for word segmentation proposed by R. Manmatha(http://ciir.cs.umass.edu/pubfiles/mm-27.pdf)</li>
+ </ul>
