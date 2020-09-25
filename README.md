@@ -53,6 +53,8 @@ The approach we adopted was as follows:-
  <b>Shubham Raorane  [https://github.com/ShubhamRaorane] </b>
  <br>
  <b>Amrut Savadatti  [https://github.com/amrutsavadatti] </b>
+ <br>
+ <b>Ryan Jacobs</b>
  
  ## References & Resources
  
